@@ -1,1 +1,1 @@
-# 300_250_HTML5AD
+Itbanner is an ad banner that advertises the IT movies and has a specific CTA
